@@ -1,0 +1,15 @@
+# User-specific stuff
+.idea
+.DS_Store
+
+# PyCharm Cache files
+*.pyc
+
+# The installed environment
+env
+
+# Contains sensitive configs like the api keys
+# and other configs local to the user
+apps
+auth.json
+

@@ -13,3 +13,5 @@ env
 apps
 auth.json
 
+dist
+act_cloud.egg-info
